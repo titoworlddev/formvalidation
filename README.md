@@ -1,16 +1,8 @@
-# formvalidation
+# Form validation Flutter
 
-A new Flutter project.
+This is a project where we have two forms, one used to validate a user record and the other to add a product.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 16px">
+  <img width="150" src="assets/screenshot1.png" alt="Screenshot">
+  <img width="150" src="assets/screenshot2.png" alt="Screenshot">
+</div>
